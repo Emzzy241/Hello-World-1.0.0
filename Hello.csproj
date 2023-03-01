@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+    </PropertyGroup>
+</Project>
+
+<!-- the first line of code tells the compiler we are using Microsoft.NET.Sdk and SDK stands for Software Development Kit
+and our SDK contains the C# language and many libraries of information  -->
+<!-- the next line of code, we tell the runtime that we want an Executable file(or Exe output). Meaning a program that can be run -->
+<!-- Finally in the TargetFramework tag, we specify that we will be usng the .net6.0 framework. And that framework contains a lot of our code libraries -->
